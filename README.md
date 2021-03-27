@@ -1,5 +1,5 @@
 # cuemath-assignment
-This repository has my submission to the assignment given by cuemath in their job application process. The project, accompanying lesson plan, and assessment are included in the repository. 
+This repository has my submission to the assignment given by cuemath in their job application process. 
 
 ## Instructions to run the game:
 1. Use Python3 
